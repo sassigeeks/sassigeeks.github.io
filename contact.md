@@ -30,7 +30,7 @@ comments: false
     font: 600 15px 'Open Sans', Serif;
     border-radius: 4px 4px;
     }</style>
-    <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+    <textarea id="message" class="textarea" name="message" rows="7" cols="30"></textarea><br />
 	</div>
 	<input id="submit_button" type="submit" value="Send email" />
 </form>				

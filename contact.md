@@ -7,7 +7,7 @@ comments: false
 
 <form action="https://formspree.io/jus@envyserve.com"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+   Name: <input type="text" name="name">
+   Email: <input type="email" name="_replyto">
     <input type="submit" value="Send">
 </form>

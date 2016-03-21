@@ -5,6 +5,9 @@ permalink: /contact/
 comments: false
 ---
 
-The documentation included provides all the information needed to get the theme installed and customized. However, if you have any questions you can email support@ecko.me, and we will be happy to help.
-
-If you have any bug reports, or feature requests, please let us know!
+<form action="https://formspree.io/jus@envyserve.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>

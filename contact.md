@@ -24,11 +24,12 @@ comments: false
 	</div>
 	<div class="row">
 		<label for="message">Your message:</label><br />
-		<style>padding: 8px 15px;
+		<style>.texarea { padding: 8px 15px;
     background: #fff;
     border: 2px solid #808080;
     font: 600 15px 'Open Sans', Serif;
-    border-radius: 4px 4px;</style>
+    border-radius: 4px 4px;
+    }</style>
     <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
 	</div>
 	<input id="submit_button" type="submit" value="Send email" />

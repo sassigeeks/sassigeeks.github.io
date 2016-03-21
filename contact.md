@@ -9,5 +9,5 @@ comments: false
       method="POST">
    Name: <input type="text" name="name">
    Email: <input type="email" name="_replyto">
-    <input type="submit" value="Send">
+    <input type="submit" class="smallbutton lightgray left" value="Send">
 </form>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apple is wrong about 4inch iPhone's and Why we don't need the 9.7" iPad Pro"
+title:  "Apple is wrong about 4inch iPhone's and Why we don't need the 9.7 iPad Pro"
 date:   2016-03-21 22:55:49
 categories: Apple Devices
 banner_image: "/media/desk.jpg"

@@ -5,32 +5,7 @@ permalink: /contact/
 comments: false
 ---
 
-<form action="https://formspree.io/jus@envyserve.com"
-      method="POST">
-   Name: <input type="text" name="name">
-   Email: <input type="email" name="_replyto">
-    <input type="submit" class="smallbutton lightgray left" value="Send">
-</form>
-
-
-<form id="contact_form" action="https://formspree.io/jus@envyserve.com" method="POST">
-	<div class="row">
-		<label for="name">Your name:</label><br />
-		<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
-	</div>
-	<div class="row">
-		<label for="email">Your email:</label><br />
-		<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
-	</div>
-	<div class="row">
-		<label for="message">Your message:</label><br />
-		<style>.texarea { padding: 8px 15px;
-    background: #fff;
-    border: 2px solid #808080;
-    font: 600 15px 'Open Sans', Serif;
-    border-radius: 4px 4px;
-    }</style>
-    <textarea id="message" class="textarea" name="message" rows="7" cols="30"></textarea><br />
-	</div>
-	<input id="submit_button" type="submit" value="Send email" />
-</form>				
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://jus3.typeform.com/to/h1V8am" data-text="Contact Form (copy)" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"><a href="https://www.typeform.com/examples/forms/?utm_campaign=h1V8am&amp;utm_source=typeform.com-2385501-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-onlineform&amp;utm_term=EN" style="color: #999" target="_blank">Online form</a> powered by Typeform</div>

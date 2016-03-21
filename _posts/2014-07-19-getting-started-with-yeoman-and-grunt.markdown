@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Getting Started with Yeoman & Grunt"
-date:   2014-07-19 04:10:49
-categories: Developer Workflow
+title:  "Apple is wrong about 4inch iPhone's."
+date:   2016-03-21 22:55:49
+categories: Apple Devices
 banner_image: "/media/desk.jpg"
 featured: true
 comments: true
 ---
 
-Why use Grunt? In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it, a task runner can do most of that mundane work for you—and your team—with basically zero effort.
+Today during what felt like the most rushed and pointless Apple Keynote I've ever had the misfortune to sit through Apple claimed that ther were over 30 million 4" iPhone's in use which is why the company felt the need to develop the iPhone SE 4". I'd argue that the people aren't really bothered about a .6" screen jump on the iPhone 6 and 6S and the real reason they are still using the smaller iPhone is because they either don't want to or can't afford to upgrade. I might be wrong, but I predict here and now that the iPhone SE will be a huge flop even more so than the iPhone 5C. 
 
 <!--more-->
 
-> Grunt is a task-based command line build tool for JavaScript projects.
+# iPhone SE, unappologetically pointless.
 
 The Grunt ecosystem is huge and it's growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn't already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze.
 

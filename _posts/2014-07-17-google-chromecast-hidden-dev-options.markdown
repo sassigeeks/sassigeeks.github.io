@@ -12,14 +12,14 @@ So this evening I was having a problem with my Chromecast which was intermitantl
 
 <!--more-->
 
-*Open Google Chrome
-*Click the Chromecast icon
-*Click Options
-*Right click anywhere in the options tab
-*Click Inspect element
-*At the bottom of the screen, expand the body text
-*Select the line that says showDevSettings
-*On the right hand side, hover the mouse over the style that says:
+-Open Google Chrome
+-Click the Chromecast icon
+-Click Options
+-Right click anywhere in the options tab
+-Click Inspect element
+-At the bottom of the screen, expand the body text
+-Select the line that says showDevSettings
+-On the right hand side, hover the mouse over the style that says:
 
 `.ng-hide {
 display: none !important;

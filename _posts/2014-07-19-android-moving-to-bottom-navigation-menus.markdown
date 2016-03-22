@@ -16,7 +16,8 @@ Recently I stumbled across a blog article and codepen example for responsive tab
 
 According to the articles author <a href="http://dbushell.com/about">David Bushell</a>, he tried to impliment this back in 2012 but browser support was flakey and the method was very hacky. But after revisiting this 4 years later has come up with the perfect solution as per the codepen example below. 
 
-In collaboration with Sara Ishikawa and Murray Silverstein, Alexander produced a pattern language that would help empower anyone wishing to design and build at any scale. This was published back in 1977 in a paper titled "A Pattern Language", which was later released as a complete hardcover book.
+<p data-height="268" data-theme-id="0" data-slug-hash="GZmJBB" data-default-tab="result" data-user="sassigeeks" class="codepen">See the Pen <a href="http://codepen.io/sassigeeks/pen/GZmJBB/">CSS only Responsive Tables</a> by Jus (<a href="http://codepen.io/sassigeeks">@sassigeeks</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Some 30 years ago, software engineers began to incorporate the principles Alexander had written about into the first documentation about design patterns, which was to be a guide for novice developers looking to improve their coding skills. It's important to note that the concepts behind design patterns have actually been around in the programming industry since its inception, albeit in a less formalized form.
 

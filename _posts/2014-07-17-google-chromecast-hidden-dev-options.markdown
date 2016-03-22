@@ -27,7 +27,7 @@ display: none !important;
 
 This will cause a tickbox to appear next to the display: none !important; code. Untick the tickbox.
 
-> ❗ Note: the exact code may change from version to version and the detail of this will undoubtedly change with future versions. Look for any HTML or CSS code that hides web elements and remove or disable it to view the hidden options.
+> ❗ Please Note: the exact code may change from version to version and the detail of this will undoubtedly change with future versions. Look for any HTML or CSS code that hides web elements and remove or disable it to view the hidden options.
 
 *Close the Inspect element interface with the little x on the top right hand side of the code window
 The hidden developer options will now appear and you can change a selection of features ranging from:

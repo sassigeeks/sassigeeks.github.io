@@ -32,13 +32,13 @@ This will cause a tickbox to appear next to the display: none !important; code. 
 *Close the Inspect element interface with the little x on the top right hand side of the code window
 The hidden developer options will now appear and you can change a selection of features ranging from:
 
-* Tab casting mode
-* Fullscreen zoom
-* Automatically send Cast extension usage statistics to Google
-* Minimum bitrate
-*Maximum bitrate
-*Maximum capture frame rate
-*Enable Mirroring Link Protection
-*Enable Cloud Features
-*Pair with cloud device
-*Delete cloud device
+- Tab casting mode
+- Fullscreen zoom
+- Automatically send Cast extension usage statistics to Google
+- Minimum bitrate
+- Maximum bitrate
+- Maximum capture frame rate
+- Enable Mirroring Link Protection
+- Enable Cloud Features
+- Pair with cloud device
+- Delete cloud device

@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-07-16 04:07:49
+title:  "Happy 10th Birthday Twitter"
+date:   2016-03-24 19:07:49
 categories: Jekyll
 banner_image: ""
 featured: false
 comments: true
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Several days ago on 20th March 2016 Twitter celebrated it's 10th Anniversary. In those years a lot has changed at Twitter and whilst there have been many 
 
 <!--more-->
 

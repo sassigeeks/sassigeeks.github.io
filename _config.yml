@@ -7,7 +7,7 @@ description: 				"I just want to create beautiful things even if nobody cares."
 baseurl: 					""
 url: 						"http://sassigeeks.com"
 logourl: 					"/assets/img/bloglogo.jpg"		
-fa-logo: 					"fa-bookmark-o"
+fa-logo: 					"fa-hashtag"
 paginate: 					5
 
 
